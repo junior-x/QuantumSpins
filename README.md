@@ -1,5 +1,5 @@
-# CurieLaw
-Marie Curie forms for simulated in a App coded with React-Native.
+# 🧪 CurieLaw
+Marie Curie Radioactive forms for simulated in a App coded with React-Native.
 
 M=xH, x=C/T
 
